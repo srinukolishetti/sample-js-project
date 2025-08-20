@@ -4,6 +4,7 @@ function sayHello() {
     console.log("Button clicked! This is logged in the console.");
     console.log("Button clicked! This is logged in the console 222.");
     console.log("Hello from feature-hello branch");
+    console.log("my new file");
 }
 
 // Some example utility functions
